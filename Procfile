@@ -1,1 +1,1 @@
-web: python app.py
+web: python Semi_Final_Project.py
